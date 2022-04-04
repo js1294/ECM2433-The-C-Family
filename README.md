@@ -17,7 +17,7 @@ This requires the GNU Scientific Library. Further details can be found here: htt
 Running the Project
 -----------
 To be able to run the project you must first compile and link the programs.
-This can done on linux using the compileSim file or using these commands:
+This can be done by executing the compileSim shell or using these commands:
 
 gcc -ansi -c queue.c -I./ -o queue.o
 
