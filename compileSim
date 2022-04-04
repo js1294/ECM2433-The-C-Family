@@ -1,3 +1,4 @@
+#!/bin/bash
 gcc -ansi -c queue.c -I./ -o queue.o
 gcc -ansi -c runSimulations.c -I./ -o runSimulations.o
 gcc queue.o runSimulations.o -lgsl -lgslcblas -o runSimulations
