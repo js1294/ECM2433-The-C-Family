@@ -12,7 +12,7 @@ and traffic light timings.
 Requirements
 -----------
 This is written in ANSI standard C. 
-This requires the GNU Scientific Library. Further details can be found here: https://www.gnu.org/software/gsl/doc/html/
+This requires the GNU Scientific Library. Further details on installation be found here: https://www.gnu.org/software/gsl/doc/html/
 
 Running the Project
 -----------
